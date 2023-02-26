@@ -1,8 +1,8 @@
-#Simple Restful API with Node.js, Express, and MongoDB
+##Simple Restful API with Node.js, Express, and MongoDB
 
 This is a simple RESTful API project built with Node.js, Express, and MongoDB. It provides basic CRUD functionality for a "products" collection in a MongoDB database.
 
-#API Endpoints
+##API Endpoints
 The API provides the following endpoints:
 
 GET /products - get a list of all products
