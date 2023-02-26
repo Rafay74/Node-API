@@ -11,8 +11,12 @@ The application can create, read, update and delete data, for example: products,
 
 The API provides the following endpoints:
 
-GET /products - get a list of all products
+GET /products - get a list of all products 
+
 GET /products/:id - get a single product by ID
+
 POST /products - create a new product
+
 PUT /products/:id - update an existing product by ID
+
 DELETE /products/:id - delete a product by ID
